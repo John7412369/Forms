@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(161, 192, 201);
+}
+div {
+    border: 1px solid rgb(130, 0, 125);
+    margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 800px;
+    margin-left: 250px;
+    background-color: rgb(138, 166, 174);
+    border-radius: 5px;
+    
+    }
+    
+    input{
+        margin-left: 20px;
+        width: 400px;
+    }
+ 
+    
